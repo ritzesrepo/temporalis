@@ -1,5 +1,5 @@
 # Temporalis
-Linux desktop config
+#### Linux desktop config
 
 ## Used alongside
 #### Catppuccin Kitty Macchiato
