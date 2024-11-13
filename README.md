@@ -1,6 +1,6 @@
 # Temporalis
 #### My daily driver linux desktop config
-![Screenshot](https://i.ibb.co/g7MzmPK/20241113-15h14m59s-grim.png)
+![20241113_15h14m59s_grim](https://github.com/user-attachments/assets/5cc26fb8-a309-4878-ab5c-3593c8508d39)
 ## Used alongside
 #### Catppuccin Kitty Macchiato
 ####   https://github.com/catppuccin/
